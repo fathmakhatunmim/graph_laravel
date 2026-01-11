@@ -17,8 +17,11 @@
                     You are successfully logged in to your dashboard.
                 </p>
             </div>
+            <div class="mt-5">
+
                @yield('graph')
            
+            </div>
 
             </div>
 
